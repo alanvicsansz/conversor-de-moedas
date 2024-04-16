@@ -1,4 +1,4 @@
-# Conversor de Moeda - Challenge ONE - Java - Back end
+# Conversor de Moedas - Challenge ONE - Java - Back end
 
 Este é um simples conversor de moedas em Java que permite aos usuários converter entre diferentes moedas usando taxas de câmbio em tempo real da ExchangeRate-API.
 
